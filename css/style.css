@@ -1,4 +1,4 @@
-body {
+/* body {
     padding-top: 2%;
 }
 
@@ -7,7 +7,6 @@ h2 {
 }
 
 .container {
-    /* width: 100%; */
     overflow: auto;
     text-align: center;
     display: inline-grid;
@@ -40,4 +39,4 @@ button {
     background-color: gray;
     border-width: 0;
     border-radius: 100%;
-}
+} */
