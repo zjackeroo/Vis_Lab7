@@ -1,15 +1,18 @@
-/* body {
-    padding-top: 2%;
-}
-
-h2 {
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
     text-align: center;
 }
 
 .container {
-    overflow: auto;
+    /* overflow: auto; */
     text-align: center;
-    display: inline-grid;
+    /* display: inline-grid; */
+}
+
+/* h2 {
+    text-align: center;
 }
 
 .graph {
